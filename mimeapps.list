@@ -1,0 +1,7 @@
+
+[Default Applications]
+inode/directory=org.gnome.nautilus.desktop
+application/x-wayland-gnome-saved-search=thunar.desktop
+application/x-directory=org.gnome.nautilus.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/obsidian=obsidian.desktop

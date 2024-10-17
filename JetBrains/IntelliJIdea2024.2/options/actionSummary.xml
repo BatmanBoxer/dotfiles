@@ -1,0 +1,130 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1728503573629" />
+    </e>
+    <e n="$Undo">
+      <i c="12" l="1729100694849" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="1" l="1728503539289" />
+    </e>
+    <e n="CloseProject">
+      <i c="2" l="1728503426690" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1103" l="1729101277779" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="99" l="1729101193217" />
+    </e>
+    <e n="EditorCopy">
+      <i c="7" l="1729101208474" />
+    </e>
+    <e n="EditorCut">
+      <i c="3" l="1729100450933" />
+    </e>
+    <e n="EditorDelete">
+      <i c="1" l="1728832456792" />
+    </e>
+    <e n="EditorDown">
+      <i c="223" l="1729101268331" />
+    </e>
+    <e n="EditorEnter">
+      <i c="53" l="1729101188394" />
+    </e>
+    <e n="EditorEscape">
+      <i c="4" l="1729100250379" />
+    </e>
+    <e n="EditorLeft">
+      <i c="757" l="1729101275661" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="1" l="1728832493218" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1728833106076" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="1" l="1728832458833" />
+    </e>
+    <e n="EditorRight">
+      <i c="1292" l="1729101276051" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1729099734719" />
+    </e>
+    <e n="EditorTab">
+      <i c="8" l="1729100808053" />
+    </e>
+    <e n="EditorUp">
+      <i c="159" l="1729100993799" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="2" l="1728832238365" />
+    </e>
+    <e n="FindNext">
+      <i c="3" l="1729100904869" />
+    </e>
+    <e n="Floating.CodeToolbar.Extract">
+      <i c="1" l="1728832237378" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="23" l="1729101190250" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="12" l="1728833248790" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="36" l="1729100517422" />
+    </e>
+    <e n="RecentFiles">
+      <i c="1" l="1729100908662" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1729100536431" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1729100989902" />
+    </e>
+    <e n="Run">
+      <i c="54" l="1729101279652" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1729100190676" />
+    </e>
+    <e n="ToggleBookmark">
+      <i c="1" l="1728832497700" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="4" l="1728503428313" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="3" l="1729100906670" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1728832242204" />
+    </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="1" l="1729100909429" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="5" l="1729101284620" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="8" l="1729100051729" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="4" l="1729100184539" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="7" l="1729100110667" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1728503429617" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1728832144078" />
+    </e>
+  </component>
+</application>

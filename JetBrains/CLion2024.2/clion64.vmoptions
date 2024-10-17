@@ -1,0 +1,5 @@
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/batmanboxer/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=824daca6-0e7a-4987-85fd-8acfcecc9356
+-Dtoolbox.notification.portFile=/home/batmanboxer/.cache/JetBrains/Toolbox/ports/b37a0bde-3b3d-42cb-82fe-ec1839365a90.port
+-Didea.suppressed.plugins.set.selector=radler

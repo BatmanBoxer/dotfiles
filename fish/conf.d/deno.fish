@@ -1,0 +1,1 @@
+source "/home/batmanboxer/.deno/env.fish"

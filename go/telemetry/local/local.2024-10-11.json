@@ -1,0 +1,51 @@
+{
+ "Week": "2024-10-11",
+ "LastWeek": "",
+ "X": 0.19122163821865024,
+ "Programs": [
+  {
+   "Program": "cmd/go",
+   "Version": "go1.23.2",
+   "GoVersion": "go1.23.2",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "go/goroot:usr-local-go": 2,
+    "go/invocations": 2,
+    "go/mode:module": 1,
+    "go/platform/host/linux/major-version:6": 1,
+    "go/platform/host/linux/version:6-10": 1,
+    "go/platform/target/goamd64:v1": 1,
+    "go/platform/target/goarch:amd64": 1,
+    "go/platform/target/goos:linux": 1,
+    "go/subcommand:unknown": 1,
+    "go/subcommand:version": 1
+   },
+   "Stacks": {}
+  },
+  {
+   "Program": "golang.org/x/tools/gopls",
+   "Version": "v0.16.2",
+   "GoVersion": "go1.22.7",
+   "GOOS": "linux",
+   "GOARCH": "amd64",
+   "Counters": {
+    "gopls/client:neovim": 13,
+    "gopls/completion/latency:\u003c100ms": 3,
+    "gopls/completion/latency:\u003c10ms": 1290,
+    "gopls/completion/latency:\u003c200ms": 1,
+    "gopls/completion/latency:\u003c50ms": 40,
+    "gopls/completion/len:0": 554,
+    "gopls/completion/len:\u003c=10": 551,
+    "gopls/completion/len:\u003e10": 229,
+    "gopls/completion/used:no": 1036,
+    "gopls/gotoolchain:local": 13,
+    "gopls/goversion:1.22": 13,
+    "gopls/references/error-latency:\u003c10ms": 1,
+    "gopls/telemetryprompt/attempts:0": 13
+   },
+   "Stacks": {}
+  }
+ ],
+ "Config": "v0.0.0-0"
+}

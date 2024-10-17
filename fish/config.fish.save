@@ -1,0 +1,4 @@
+clearset -g fish_greeting ''
+set -g POSH_THEME "catppuccin.omp.json"
+oh-my-posh init fish | source
+

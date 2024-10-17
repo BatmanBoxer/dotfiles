@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="3" l="1729076883702" />
+    </e>
+    <e n="CloseProject">
+      <i c="3" l="1729076901942" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="1" l="1729076794167" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1729076794147" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="3" l="1729076892845" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="2" l="1729076890325" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1729076748878" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1729077020228" />
+    </e>
+    <e n="com.intellij.openapi.ui.MasterDetailsComponent$MyDeleteAction">
+      <i c="2" l="1729076950550" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="4" l="1729076899741" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="2" l="1729076771827" />
+    </e>
+    <e n="com.jetbrains.cidr.cpp.cmake.settings.CMakeConfigurable$AddAction">
+      <i c="3" l="1729076958014" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,22 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="513" />
+  </component>
+  <component name="WindowManager">
+    <frame x="5" y="39" width="1910" height="1036" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="743" y="313" width="424" height="458" key="FileChooserDialogImpl" timestamp="1728704123620">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="313" width="424" height="458" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1728704123620" />
+    <state x="960" y="1129" width="1904" height="1030" key="WELCOME_SCREEN" timestamp="1728584452470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="960" y="1129" width="1904" height="1030" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1728584452470" />
+    <state x="34" y="271" width="1900" height="1026" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame" timestamp="1728729124538">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="34" y="271" width="1900" height="1026" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame/0.0.1920.1080" timestamp="1728729124538" />
+  </component>
+</application>

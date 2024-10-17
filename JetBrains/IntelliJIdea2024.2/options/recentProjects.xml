@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – Main.java" projectWorkspaceId="2nDMprnTSSRDIMJcvYzHRiBN6RI">
+              <option name="activationTimestamp" value="1728503378857" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23339.11" />
+              <option name="buildTimestamp" value="1727241120000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="10" y="44" width="942" height="1026" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1728503379327" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/untitled1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled1 – Main.kt" projectWorkspaceId="2nDMsGm0ipI5BoiLzala5k5a4Fa">
+              <option name="activationTimestamp" value="1728503422283" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23339.11" />
+              <option name="buildTimestamp" value="1727241120000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="10" y="44" width="942" height="1026" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1728503397882" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/untitled2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled2 – Main.kt [untitled2.main]" opened="true" projectWorkspaceId="2nDMwXp7L6iFKpjscuH8TlVL0Hw">
+              <option name="activationTimestamp" value="1729101256332" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-242.23339.11" />
+              <option name="buildTimestamp" value="1727241120000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="4" y="38" width="1912" height="1038" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1728503431910" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/IdeaProjects/untitled2" />
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

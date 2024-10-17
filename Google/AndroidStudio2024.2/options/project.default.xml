@@ -1,0 +1,27 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "/home/batmanboxer/AndroidStudioProjects/ChaApp",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="748" y="314" key="FileChooserDialogImpl" timestamp="1728570044708">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="748" y="314" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1728570044708" />
+        <state x="469" y="207" key="SettingsEditor" timestamp="1728585204062">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="469" y="207" key="SettingsEditor/0.0.1920.1080" timestamp="1728585204062" />
+        <state x="698" y="278" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1728570085507">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="698" y="278" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080" timestamp="1728570085507" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
