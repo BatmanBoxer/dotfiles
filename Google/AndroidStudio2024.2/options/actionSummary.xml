@@ -28,7 +28,7 @@
       <i c="37" l="1728637441927" />
     </e>
     <e n="CloseProject">
-      <i c="14" l="1728728971289" />
+      <i c="15" l="1729708489602" />
     </e>
     <e n="CodeCleanup">
       <i c="1" l="1728729646280" />
@@ -88,7 +88,7 @@
       <i c="1" l="1728909085826" />
     </e>
     <e n="EditorPaste">
-      <i c="96" l="1728910942969" />
+      <i c="97" l="1729708494492" />
     </e>
     <e n="EditorPasteFromX11">
       <i c="1" l="1728908567226" />
@@ -202,7 +202,7 @@
       <i c="2" l="1728730226893" />
     </e>
     <e n="Run">
-      <i c="205" l="1728911021676" />
+      <i c="207" l="1729709594043" />
     </e>
     <e n="SaveAll">
       <i c="6" l="1728730518660" />
@@ -217,7 +217,7 @@
       <i c="22" l="1728625628179" />
     </e>
     <e n="Stop">
-      <i c="14" l="1728911005803" />
+      <i c="16" l="1729709644739" />
     </e>
     <e n="Switcher">
       <i c="1" l="1728627519616" />
@@ -232,10 +232,10 @@
       <i c="2" l="1728909579364" />
     </e>
     <e n="Vcs.VcsClone">
-      <i c="6" l="1728703820558" />
+      <i c="7" l="1729708493684" />
     </e>
     <e n="WelcomeScreen.CreateNewProject">
-      <i c="6" l="1728584891354" />
+      <i c="7" l="1729708491203" />
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="3" l="1728704111523" />
@@ -304,7 +304,7 @@
       <i c="1" l="1728627517672" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="20" l="1728911037211" />
+      <i c="21" l="1729709647924" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="3" l="1728704109683" />
@@ -313,10 +313,10 @@
       <i c="3" l="1728908560787" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="57" l="1728910998371" />
+      <i c="58" l="1729708562741" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="53" l="1728834073894" />
+      <i c="54" l="1729708488265" />
     </e>
     <e n="com.intellij.terminal.actions.TerminalActionWrapper">
       <i c="3" l="1728585105039" />

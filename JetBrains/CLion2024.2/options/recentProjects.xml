@@ -4,8 +4,8 @@
       <map>
         <entry key="$USER_HOME$/Programming/C++/batman_compiler">
           <value>
-            <RecentProjectMetaInfo frameTitle="batman_compiler – main.cpp" opened="true" projectWorkspaceId="2nW7KQvqQETDZEedrKrX1D2vEfw">
-              <option name="activationTimestamp" value="1729077018888" />
+            <RecentProjectMetaInfo frameTitle="batman_compiler" projectWorkspaceId="2nbTTlIvSHV4UtdKIApC8hm9K91">
+              <option name="activationTimestamp" value="1729240792274" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="CL-242.22855.75" />
               <option name="buildTimestamp" value="1726664880000" />
@@ -18,8 +18,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Programming/C++/Parser">
+          <value>
+            <RecentProjectMetaInfo frameTitle="batman_compiler – main.cpp" projectWorkspaceId="2nbTWIN7OYueN8Q0xceNAMks43V">
+              <option name="activationTimestamp" value="1729600270147" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-242.22855.75" />
+              <option name="buildTimestamp" value="1726664880000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="4" y="38" width="1912" height="1038" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1729240805299" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Programming/C++/batman_compiler" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Programming/C++/Parser" />
   </component>
 </application>

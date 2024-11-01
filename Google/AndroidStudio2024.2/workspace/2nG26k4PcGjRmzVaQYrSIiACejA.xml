@@ -18,22 +18,10 @@
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/batman/charoom/features/feature_chat_screen/presentation/screens/home/HomeViewmodel.kt">
           <provider editor-type-id="android-source-code" selected="true">
-            <state selected-layout="SHOW_EDITOR">
+            <state>
               <editor-state relative-caret-position="154">
                 <caret line="7" selection-start-line="7" selection-end-line="7" />
               </editor-state>
-              <multi-preview-state selected="Compose">
-                <representations>
-                  <list>
-                    <representation name="Compose">
-                      <settings>
-                        <setting name="previewLayout" value="Grid" />
-                        <setting name="selectedGroup" value="" />
-                      </settings>
-                    </representation>
-                  </list>
-                </representations>
-              </multi-preview-state>
             </state>
           </provider>
         </entry>
@@ -42,22 +30,10 @@
       <file>
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/batman/charoom/rootNavigation/RootNavGraph.kt">
           <provider editor-type-id="android-source-code" selected="true">
-            <state selected-layout="SHOW_EDITOR">
+            <state>
               <editor-state relative-caret-position="220">
                 <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
               </editor-state>
-              <multi-preview-state selected="Compose">
-                <representations>
-                  <list>
-                    <representation name="Compose">
-                      <settings>
-                        <setting name="previewLayout" value="Grid" />
-                        <setting name="selectedGroup" value="" />
-                      </settings>
-                    </representation>
-                  </list>
-                </representations>
-              </multi-preview-state>
             </state>
           </provider>
         </entry>
@@ -76,8 +52,8 @@
       "lastUsed": 1728585040332
     },
     "Kotlin": {
-      "usageCount": 149,
-      "lastUsed": 1728911003857
+      "usageCount": 151,
+      "lastUsed": 1729708487092
     },
     "JSON": {
       "usageCount": 1,
@@ -110,7 +86,7 @@
     </expand>
     <select />
   </component>
-  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/app/src/main/java/com/batman/charoom/features/feature_profile/di/SearchModule.kt" />
@@ -171,7 +147,7 @@
       <summary usageCount="1" lastUsage="1728584989867" />
     </language>
     <language id="kotlin">
-      <summary usageCount="149" lastUsage="1728911003857" />
+      <summary usageCount="151" lastUsage="1729708487092" />
     </language>
   </component>
   <component name="ProjectView">
@@ -987,23 +963,23 @@
               </presentation>
               <presentation>
                 <attributes />
-                <data iconPath="expui/nodes/generatedSource.svg" iconPlugin="com.intellij" isLeaf="false" text="java (generated)" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="false" text="java (generated)" />
                 <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
               </presentation>
               <presentation>
                 <attributes />
-                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
                 <item name="res" type="d4f16f75:AndroidResFolderNode" />
               </presentation>
               <presentation>
                 <attributes />
-                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res (generated)" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="false" text="res (generated)" />
                 <item name="res (generated)" type="d4f16f75:AndroidResFolderNode" />
               </presentation>
             </presentation>
             <presentation>
               <attributes />
-              <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
+              <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="false" text="Gradle Scripts" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
               <presentation>
                 <attributes>
@@ -1011,7 +987,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/build.gradle.kts" />
                   </map>
                 </attributes>
-                <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlinGradleScript.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="build.gradle.kts" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="build.gradle.kts" />
                 <item name="build.gradle.kts" type="46e09232:AndroidBuildScriptNode" />
               </presentation>
               <presentation>
@@ -1020,7 +996,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/app/build.gradle.kts" />
                   </map>
                 </attributes>
-                <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlinGradleScript.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="build.gradle.kts" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="build.gradle.kts" />
                 <item name="build.gradle.kts" type="46e09232:AndroidBuildScriptNode" />
               </presentation>
               <presentation>
@@ -1029,7 +1005,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/app/proguard-rules.pro" />
                   </map>
                 </attributes>
-                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="proguard-rules.pro" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="proguard-rules.pro" />
                 <item name="proguard-rules.pro" type="46e09232:AndroidBuildScriptNode" />
               </presentation>
               <presentation>
@@ -1038,7 +1014,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/gradle.properties" />
                   </map>
                 </attributes>
-                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="gradle.properties" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="gradle.properties" />
                 <item name="gradle.properties" type="46e09232:AndroidBuildScriptNode" />
               </presentation>
               <presentation>
@@ -1047,7 +1023,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
                   </map>
                 </attributes>
-                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="gradle-wrapper.properties" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="gradle-wrapper.properties" />
                 <item name="gradle-wrapper.properties" type="46e09232:AndroidBuildScriptNode" />
               </presentation>
               <presentation>
@@ -1056,7 +1032,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/gradle/libs.versions.toml" />
                   </map>
                 </attributes>
-                <data iconPath="icons/newui/toml.svg" iconPlugin="org.toml.lang" isLeaf="true" text="libs.versions.toml" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="libs.versions.toml" />
                 <item name="libs.versions.toml" type="46e09232:AndroidBuildScriptNode" />
               </presentation>
               <presentation>
@@ -1065,7 +1041,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/local.properties" />
                   </map>
                 </attributes>
-                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="local.properties" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="local.properties" />
                 <item name="local.properties" type="46e09232:AndroidBuildScriptNode" />
               </presentation>
               <presentation>
@@ -1074,7 +1050,7 @@
                     <entry key="filePath" value="$PROJECT_DIR$/settings.gradle.kts" />
                   </map>
                 </attributes>
-                <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlinGradleScript.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="settings.gradle.kts" />
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="settings.gradle.kts" />
                 <item name="settings.gradle.kts" type="46e09232:AndroidBuildScriptNode" />
               </presentation>
             </presentation>
@@ -1116,13 +1092,13 @@
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22696334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22672594" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Resources Explorer" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" x="-53" y="872" width="1828" height="197" id="Logcat" order="3" visible="true" weight="0.09218147" />
+      <window_info active="true" anchor="bottom" x="-53" y="872" width="1828" height="197" id="Logcat" order="3" visible="true" weight="0.09200385" />
       <window_info anchor="bottom" id="App Quality Insights" order="4" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.5062741" />
       <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" />
@@ -1133,9 +1109,9 @@
       <window_info anchor="right" id="Gradle" order="1" weight="0.25026262" />
       <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
       <window_info anchor="right" id="Device Manager 2" order="3" weight="0.24895288" />
-      <window_info anchor="right" x="-241" y="304" width="1920" height="1080" id="Running Devices" order="4" visible="true" weight="0.24581152" />
+      <window_info anchor="right" x="-241" y="304" width="1920" height="1080" id="Running Devices" order="4" visible="true" weight="0.24555439" />
       <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
-      <unified_weights bottom="0.09218147" left="0.22696334" right="0.24581152" />
+      <unified_weights bottom="0.09200385" left="0.22672594" right="0.24555439" />
     </layoutV2>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22715336" />
@@ -1158,8 +1134,8 @@
       <unified_weights bottom="0.23834951" left="0.22715336" right="0.32536763" />
     </layout-to-restore>
     <recentWindows>
-      <value>Project</value>
       <value>Logcat</value>
+      <value>Project</value>
       <value>Running Devices</value>
       <value>Terminal</value>
       <value>Device Manager 2</value>
@@ -1857,25 +1833,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/batman/charoom/common/utils/UuidCombiner.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state />
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/batman/charoom/common/utils/UuidCombiner.kt" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/batman/charoom/common/utils/firebaseTimetoString.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state selected-layout="SHOW_EDITOR">
@@ -1900,69 +1858,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/batman/charoom/features/feature_chat_screen/domain/use_case/UseCaseFetchRecentChat.kt" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/batman/charoom/rootNavigation/RootNavGraph.kt">
       <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
+        <state>
           <editor-state relative-caret-position="220">
             <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/batman/charoom/features/feature_chat_screen/domain/use_case/UseCaseFetchRecentChat.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="603">
-            <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-            <folding>
-              <element signature="e#73#733#0" expanded="true" />
-            </folding>
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/batman/charoom/features/feature_chat_screen/presentation/screens/home/HomeViewmodel.kt">
       <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
+        <state>
           <editor-state relative-caret-position="154">
             <caret line="7" selection-start-line="7" selection-end-line="7" />
           </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
         </state>
       </provider>
     </entry>

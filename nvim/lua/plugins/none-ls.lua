@@ -4,11 +4,26 @@ return {
     local null_ls = require("null-ls")
     null_ls.setup({
       sources = {
+        -- Lua
         null_ls.builtins.formatting.stylua,
-        null_ls.builtins.formatting.prettier,
+        -- JavaScript, TypeScript, HTML, CSS, JSON, YAML
+        null_ls.builtins.formatting.prettier.with({
+          filetypes = { "javascript", "typescript", "html", "css", "json", "yaml" },
+        }),
+        -- Rust
+        null_ls.builtins.formatting.rustfmt,
+        -- Python
+        null_ls.builtins.formatting.black,
+        -- Go
+        null_ls.builtins.formatting.gofmt,
+        null_ls.builtins.formatting.goimports,
       },
     })
 
-    vim.keymap.set("n", "<C-l>", vim.lsp.buf.format, {})
+    -- Keymap for formatting
+    vim.keymap.set("n", "<C-o>", function()
+      vim.lsp.buf.format({ async = true })
+    end, {})
   end,
 }
+

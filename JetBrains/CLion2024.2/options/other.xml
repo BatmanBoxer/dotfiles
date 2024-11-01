@@ -7,47 +7,62 @@
     <option name="fontSize" value="15.0" />
     <option name="presentationModeIdeScale" value="1.75" />
   </component>
-  <component name="PropertyService"><![CDATA[{
-  "keyToString": {
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
-    "Rad.Init.Cfg.1": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
-    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
-    "RunOnceActivity.cidr.test.roots.only": "true",
-    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
-    "ask.about.ctrl.y.shortcut.v2": "true",
-    "clion.initialConfigPerformed": "true",
-    "evlsprt3.242": "4",
-    "experimental.ui.on.first.startup": "true",
-    "experimental.ui.used.version": "242.22855.75",
-    "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
-    "gotit.previous.run": "CL-242.22855.75",
-    "ide.memory.adjusted": "true",
-    "input.method.disabler.muted": "true",
-    "last_opened_file_path": "/home/batmanboxer/Programming/C++/batman_compiler",
-    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
-    "migrated.non.roamable.values.from.general.settings": "true",
-    "previousColorScheme": "_@user_Dark",
-    "registry.to.advanced.settings.migration.build": "CL-242.22855.75",
-    "ts.lib.d.ts.version": "5.4.3"
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;8&quot;,
+    &quot;Rad.Init.Cfg.1&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.VFSInitializationConditionsToFusReporter&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.test.framework.showIndexingAsTask&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.test.roots.only&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.llm.installer.activate.toolwindow&quot;: &quot;true&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;clion.initialConfigPerformed&quot;: &quot;true&quot;,
+    &quot;enter_selection_count&quot;: &quot;4&quot;,
+    &quot;evlsprt3.242&quot;: &quot;4&quot;,
+    &quot;experimental.ui.on.first.startup&quot;: &quot;true&quot;,
+    &quot;experimental.ui.used.version&quot;: &quot;242.22855.75&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;gotit.previous.run&quot;: &quot;CL-242.22855.75&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/batmanboxer/Programming/C++/Parser&quot;,
+    &quot;llm.installer.last.toolwindow.state&quot;: &quot;LLM_INSTALLER&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Dark&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;CL-242.22855.75&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;5.4.3&quot;
   },
-  "keyToStringList": {
-    "file.chooser.recent.files": [
-      "/home/batmanboxer/Programming/C++/batman_compiler"
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/batmanboxer/Programming/C++/Parser&quot;,
+      &quot;/home/batmanboxer/Programming/C++/batman_compiler&quot;
     ],
-    "fileTypeDetectors": [
-      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
-      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
-      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
-      "com.intellij.database.vfs.DbStorageFileType$Detector",
-      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
-      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
-      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
-      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
     ]
   }
+}</component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SpeedSearch": 1729249125352,
+    "FocusProjectToolWindow": 1729600237798,
+    "CommentCode": 1729600218792,
+    "FindInPath": 1729600236857
+  },
+  "proposedTips": {
+    "SpeedSearch": 1729249125214,
+    "CommentCode": 1729600218656
+  },
+  "tipsOrderSeed": 1729249125155
 }]]></component>
 </application>

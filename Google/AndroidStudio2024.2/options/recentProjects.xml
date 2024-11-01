@@ -20,7 +20,7 @@
         </entry>
         <entry key="$USER_HOME$/AndroidStudioProjects/chaRoom3">
           <value>
-            <RecentProjectMetaInfo frameTitle="chaRoom – HomeViewmodel.kt [chaRoom.app.main]" opened="true" projectWorkspaceId="2nG26k4PcGjRmzVaQYrSIiACejA">
+            <RecentProjectMetaInfo frameTitle="chaRoom – HomeViewmodel.kt [chaRoom.app.main]" projectWorkspaceId="2nG26k4PcGjRmzVaQYrSIiACejA">
               <option name="activationTimestamp" value="1728911039791" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-242.21829.142.2421.12409432" />
@@ -28,15 +28,31 @@
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
-              <frame x="5" y="39" width="1910" height="1036" />
+              <frame x="4" y="38" width="1912" height="1038" />
               <option name="productionCode" value="AI" />
               <option name="projectOpenTimestamp" value="1728729013697" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/mobile-wallet">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mobile-wallet – ~/AndroidStudioProjects/mobile-wallet/core/model/src/main/java/com/mifospay/core/model/City.kt" opened="true" projectWorkspaceId="2nqlUJoo4MHZkFF9A14sET6yVlX">
+              <option name="activationTimestamp" value="1729708500932" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-242.21829.142.2421.12409432" />
+              <option name="buildTimestamp" value="1727206200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="4" y="38" width="1912" height="1038" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1729708501132" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/chaRoom3" />
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/mobile-wallet" />
     <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
   </component>
 </application>

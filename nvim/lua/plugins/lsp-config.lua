@@ -10,7 +10,7 @@ return {
     "williamboman/mason-lspconfig.nvim",
     lazy = false,
     opts = {
-      ensure_installed = { "lua_ls", "tsserver", "html", "cssls", "gopls", "pyright", "clangd","tailwindcss" },
+      ensure_installed = { "lua_ls", "tsserver", "html", "cssls", "gopls", "pyright", "clangd", "tailwindcss", "rust_analyzer" },
     },
   },
   {
@@ -44,12 +44,26 @@ return {
       lspconfig.tailwindcss.setup({
         capabilities = capabilities
       })
-
+      lspconfig.rust_analyzer.setup({
+        capabilities = capabilities,
+        settings = {
+          ["rust-analyzer"] = {
+            diagnostics = {
+              enable = true,             -- Enable diagnostics
+              enableExperimental = true, -- Enable experimental diagnostics
+            },
+            checkOnSave = {
+              enable = true,      -- Enable checking on save
+              command = "check", -- Optional: you can use "check" or "clippy" for different linting
+            },
+          },
+        },
+      })
       vim.keymap.set("n", "K", vim.lsp.buf.hover, {})
       vim.keymap.set("n", "<C-z>", vim.lsp.buf.definition, {})
       vim.keymap.set("n", "<C-k>", vim.lsp.buf.references, {})
       vim.keymap.set("n", "<C-a>", vim.lsp.buf.code_action, {})
-      vim.keymap.set("n", "<R>", vim.lsp.buf.rename, {})
+      vim.keymap.set("n", "<C-g>", vim.lsp.buf.rename, {})
     end,
   },
 }

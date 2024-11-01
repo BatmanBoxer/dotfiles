@@ -1,0 +1,169 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="34" l="1729859813198" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="1" l="1729579897326" />
+    </e>
+    <e n="Annotate">
+      <i c="2" l="1729854198557" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1729579863575" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="1" l="1729695800396" />
+    </e>
+    <e n="ConfigurationXDebuggerResumeAction">
+      <i c="2" l="1729844241559" />
+    </e>
+    <e n="Debug">
+      <i c="67" l="1729954780375" />
+    </e>
+    <e n="DlvShowPointerAddressesToggleAction">
+      <i c="1" l="1729854278020" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="75" l="1729954774507" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="6" l="1729954776734" />
+    </e>
+    <e n="EditorCopy">
+      <i c="7" l="1729695895828" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1729579777440" />
+    </e>
+    <e n="EditorDown">
+      <i c="25" l="1729954776298" />
+    </e>
+    <e n="EditorEnter">
+      <i c="11" l="1729954771800" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1729859809643" />
+    </e>
+    <e n="EditorLeft">
+      <i c="45" l="1729859801887" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1729584020819" />
+    </e>
+    <e n="EditorRight">
+      <i c="27" l="1729859802166" />
+    </e>
+    <e n="EditorTab">
+      <i c="7" l="1729955040867" />
+    </e>
+    <e n="EditorUp">
+      <i c="11" l="1729863359902" />
+    </e>
+    <e n="FindNext">
+      <i c="1" l="1729579955307" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1729584020025" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="1" l="1729518056775" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="3" l="1729859817318" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="12" l="1729695750583" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1729579957968" />
+    </e>
+    <e n="RenameElement">
+      <i c="6" l="1729859814815" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1729580247635" />
+    </e>
+    <e n="Resume">
+      <i c="1" l="1729580245707" />
+    </e>
+    <e n="Run">
+      <i c="20" l="1729871322675" />
+    </e>
+    <e n="RunToCursor">
+      <i c="2" l="1729854188511" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1729955042418" />
+    </e>
+    <e n="StepInto">
+      <i c="562" l="1729954947073" />
+    </e>
+    <e n="StepOut">
+      <i c="192" l="1729954929466" />
+    </e>
+    <e n="StepOver">
+      <i c="12" l="1729583678268" />
+    </e>
+    <e n="Stop">
+      <i c="24" l="1729871314283" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="41" l="1729954779034" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="2" l="1729768077923" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="2" l="1729579869301" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1729579866830" />
+    </e>
+    <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1729580092595" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$result$1">
+      <i c="1" l="1729579879871" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1729579957246" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1729517915552" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.settingChooser.SettingChooserItemAction">
+      <i c="1" l="1729517917247" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="1" l="1729583184650" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="10" l="1729871008614" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1729942272478" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="12" l="1729870888405" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1729579862221" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="7" l="1729864669801" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="6" l="1729579842324" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1729579838589" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="32" l="1729872532752" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="9" l="1729695752290" />
+    </e>
+  </component>
+</application>

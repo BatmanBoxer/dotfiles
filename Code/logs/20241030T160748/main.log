@@ -1,0 +1,6 @@
+2024-10-30 16:07:48.753 [info] update#setState idle
+2024-10-30 16:08:00.381 [warning] [perf] profiling STARTED 8391df70-80c9-4432-acb6-a8a376022046
+2024-10-30 16:08:05.393 [warning] [perf] profiling DONE 8391df70-80c9-4432-acb6-a8a376022046
+2024-10-30 16:08:05.575 [warning] [perf] profiling STARTED 8391df70-80c9-4432-acb6-a8a376022046
+2024-10-30 16:08:07.396 [info] Extension host with pid 12535 exited with code: 0, signal: unknown.
+2024-10-30 16:08:07.425 [error] [UtilityProcessWorker]: terminated unexpectedly with code 18446744072313084000, signal: unknown
